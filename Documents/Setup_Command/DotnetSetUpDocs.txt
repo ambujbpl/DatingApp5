@@ -1,0 +1,5 @@
+1 dotnet new sln :- create project image file
+2 dotnet new webapi -o API :- Create Api project using dotnet 5
+3 dotnet sln add API :- add API folder to sln project
+4 dotnet run
+5 dotnet watch run 

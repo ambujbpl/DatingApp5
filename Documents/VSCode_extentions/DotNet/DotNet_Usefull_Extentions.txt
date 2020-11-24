@@ -1,0 +1,5 @@
+1 C# by omnisharp
+2 C# Extensions by jchannon
+3 Material Icon Theme by Philipp Kief
+4 Enable the Auto save on the VSC
+5 dotnet dev-certs https --trust
